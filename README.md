@@ -1,1 +1,2 @@
-# Neural-Network-with-Tensorflow
+# Neural-Network-in-Tensorflow
+Neural Network implemented in Tensorflow
